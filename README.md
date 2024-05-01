@@ -1,2 +1,8 @@
-# Parcial-SD
- 
+
+# Project Title
+
+
+Parcial SD
+
+
+Magdelin Pai
